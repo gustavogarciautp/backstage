@@ -9,6 +9,7 @@ plugins:
 # For sidebar navigation on https://backstage.io/, see `microsite/sidebars.json`
 nav:
   - Overview:
+      - Hello: 'index.md'
       - What is Backstage?: 'overview/what-is-backstage.md'
       - Architecture overview: 'overview/architecture-overview.md'
       - Project Roadmap: 'overview/roadmap.md'
